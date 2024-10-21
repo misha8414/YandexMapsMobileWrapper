@@ -12,8 +12,8 @@ let package = Package(
     ],
     dependencies: [
         .package(
-            url: "https://github.com/PanchenkoVV/YandexMapsMobileBinary",
-            revision: "642ab11371a6dff4b91441b9b97a64fae950dc4d"
+            url: "https://github.com/misha8414/YandexMapsMobileBinary",
+            revision: "077a261b7c9d736657554bd15bb4a7da31a43a1f"
         )
     ],
     targets: [
